@@ -4,8 +4,8 @@ import "@fontsource-variable/vazirmatn/wght.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "راهی | جست‌وجو و مقایسه هتل",
-  description: "هتل‌های مقصدت را با تاریخ شمسی جست‌وجو کن، بر اساس قیمت و امکانات فیلتر کن و بهترین گزینه را مقایسه کن.",
+  title: "راهی | جست‌وجوی هتل",
+  description: "هتل‌های مقصد را جست‌وجو کنید و بهترین گزینه را مقایسه کنید.",
   applicationName: "راهی",
 };
 
