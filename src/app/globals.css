@@ -897,8 +897,8 @@ a {
 .listing-toolbar {
   @apply flex items-center justify-between;
   min-height: 42px;
-  margin-bottom: 13px;
-  gap: 12px;
+  margin-bottom: 40px;
+  gap: 10px;
 }
 .listing-toolbar-start,
 .listing-toolbar-actions {
@@ -1577,7 +1577,7 @@ a {
   }
   .search-panel {
     width: calc(100% - 28px);
-    margin-top: -32px;
+    margin-top: 10px;
     padding: 14px;
     border-radius: 16px;
   }
